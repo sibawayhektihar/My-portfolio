@@ -87,6 +87,7 @@ nav ul{
     border: none;
     border-radius:6.5px;
     margin:10px;
+    
 }
 
 .btn-primary-1{
@@ -137,6 +138,21 @@ nav ul{
     padding:130px 150px;
     text-align:center;
     margin-top:100px;
+}
+
+.about-items{
+    display:flex;
+    justify-content:space-around;
+}
+
+.item-title{
+
+}
+
+.item-description{
+    font-size:20px;
+    font-weight:bold;
+    /* margin:15px; */
 }
 
 /* main styles */
